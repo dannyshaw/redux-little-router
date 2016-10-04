@@ -1,7 +1,6 @@
 .nyc_output/
 config/
 coverage/
-src/
 test/
 .babelrc
 .editorconfig
